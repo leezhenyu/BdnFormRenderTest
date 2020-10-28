@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Eric/Downloads/report/commons-beanutils-1.9.4/commons-beanutils-1.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eric/Downloads/report/commons-collections4-4.4/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eric/Downloads/report/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eric/Downloads/report/commons-javaflow-1209105.jar/commons-javaflow-1209105.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eric/Downloads/report/jasperreports-6.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eric/Downloads/report/jasperreports-fonts-6.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eric/Downloads/report/commons-digester-2.1-bin/commons-digester-2.1/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eric/Downloads/report/itext-2.1.7.js4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
